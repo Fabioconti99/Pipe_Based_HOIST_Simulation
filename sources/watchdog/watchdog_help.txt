@@ -1,0 +1,7 @@
+
+
+################## WATCH-DOG PROCESS ##################
+	
+The "Watchdog process" has the capability of RESETTING the entire system if no order interaction is recorded from the command and inspection processes within a 60 seconds time window. 
+
+Every time an input occurs in any of the input consoles, a signal (SIGUSR1) is sent to the Watch-Dog process. Thanks to the handler for this signal, the process will call the command "alarm(60)" which will reset the alarm timer to 60 seconds. If for any reason the user doesn't interact with the console for more than 60 seconds the alarm signal will be sent. The signal handler of the Watch_Dog will make sure that the whole system will get into a RESET state by telling the inspector process to do so through the use of a signal. 

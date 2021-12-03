@@ -1,0 +1,10 @@
+
+
+################## MOTOR Z ##################
+
+This script permits the movement of the motor 'z', i.e. the movement along the 'z' axis, which will be activated by pressing 'up' and 'down' arrows in the Command Konsole (in order conditions) or eventually by a RESET (from Inspector or Watchdog).
+The motion domain is restricted to the interval [0,10000] mm. If triggered, every 'dt' seconds (default: 0.2 s),the motor will complete a 20 mm 'step', plus a stochastic error between +-4 mm.
+In order to implement that, the motor receives the last command from Command Konsole via fifo and, if RESET or STOP are not triggered (from Inspection Konsole), it will simply increase (or decrease) its position until the maximum (or minimum) position is reached.
+When the user decides to stop the motor (by typing 'z' on Command Konsole), the program won't do anything (i.e. stops itself) until a new input is received.
+When the Inspector Konsole (or Watchdog) sends to the motor a RESET command, it is actually sending a signal (SIGUSR1) that tells the motor to go back to the start position (z=0 mm). In the meanwhile, commands from Command Konsole are disabled and the only way to reactivate the motor during the RESET mode is receiving another signal from Inspector Konsole (SIGUSR2) that stops the rolling of the motor (i.e command STOP).
+Note: the STOP command can be obviously used even if the RESET is not triggered.

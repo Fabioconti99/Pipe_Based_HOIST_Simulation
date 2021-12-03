@@ -1,0 +1,10 @@
+
+
+################## INSPECTOR CONSOLE ##################
+
+ The "Inspector process" keeps track of the position of the HOIST printing it on screen 5 times a second. It also has the capability of RESETTING (bringing the HOIST to the initial position) and STOPPING (stopping the HOIST at the current position) the whole system through the use of two additional EMERGENCY buttons.
+
+Just like the command process the inspection is also run through an external shell run by the program
+KONSOLE.
+This process reads the data about the position of the motors as soon as it updates. Thanks to the select function implemented inside the while loop of the code, the read() sys-calls don't necessarily have to wait for their assigned "file descriptor" to be ready. This capability of the select() sys-call lets a constant data stream flow from the motors to the inspector. Whenever the motors' position changes the select function will notices that the fifo memory is not empty and will let the inspector read from it.
+Wether the "r" or "s" button are pressed an emergency action will take place. The "r" button will start a RESET routine where the commands of the command window will be disabled and the hoist will go back to the starting position. The "s" key will instead STOP immediately both the motors of the HOIST. Both these commands are sent to the system through the use of signals. Once either the r button or the s one is pressed the inspector will send a signal to the watchdog to reset its timer.

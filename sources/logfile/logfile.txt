@@ -1,0 +1,68 @@
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: WATCHDOG PROCESS SPAWNED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: command_to_x fifo created
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: command_to_z fifo created
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: x_to_inspector fifo created
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: z_to_inspector fifo created
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: command_to_inspector fifo created
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: inspector_to_wd fifo created
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: MOTOR_X PROCESS SPAWNED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: MOTOR_Z PROCESS SPAWNED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: COMMAND PROCESS SPAWNED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+- Content: INSPECTOR PROCESS SPAWNED
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:11 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:11 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:11 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:13 2021
+- Content: position= (0,0)
+[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:13 2021
+- Content: position= (0,0)
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: the process with the [4612] PID is the First Process terminated with WRONG exit status: 0
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: First process terminated with exit status: 0
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: command_to_x fifo unlinked
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: command_to_z fifo unlinked
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: x_to_inspector fifo unlinked
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: z_to_inspector fifo unlinked
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: command_to_inspector fifo unlinked
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: inspector_to_wd fifo unlinked
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: INSPECTOR PROCESS TERMINATED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: MOTOR_X PROCESS TERMINATED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: MOTOR_Z PROCESS TERMINATED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: WATCHDOG PROCESS TERMINATED
+[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+- Content: END OF CURRENT PROCESS

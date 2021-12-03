@@ -1,0 +1,13 @@
+
+
+################## COMMAND PROCESS ##################
+
+This process is capable of managing the movement of the HOIST position through the use of two different motors on for each shifting direction. You can control the activation of the motors through the use of the arrows keys. Two other buttons are used as brakes one for each of the motors.
+This process is run through the use of KONSOLE. This program will launch a different shell that will run separately the "command" process.
+
+One of each keyboard input is linked to an integer variable inside of the code. This encoding lets the program send via pipe the different inputs to the motor processes to make them move.
+
+The while loop that manages the process waits for a keyboard input at every cycle. Once a key is pressed the char value related to it will be assigned to the variable "char_pressed". This char variable will be the discriminatory value of a switch case statement.
+If the key entered is recognised as a known char, the switch case will execute the assigned functionalities to that specific key. Once any of these input key buttons is pressed, the int value assigned to the specific key will be wrote on the fifo file in order to be read by the motor.
+After the sys-call a signal (SIGUSR1) will be sent to the watchdog to restart its countdown. If the "e" key is pressed the process will get out of the while loop and it will tell the master to kill all the other running project's processes.
+If the system is set to be on a RESET state, all the commands are disabled thanks to the arrival of a SIGUSR1 signal to the command process. The system will re-enable the commands either when the HOIST finishes resetting or if the STOP command is sent.

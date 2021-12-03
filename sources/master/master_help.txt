@@ -1,0 +1,8 @@
+			    
+
+################## MASTER ##################
+
+The Master process is useful for the creation and the management of the child processes and the pipes that are actually used.
+Their creation consists in using 'fork()' and 'execvp()' commands (for the processes) and 'mkfifo()' (for the pipes). The name of each pipe is passed by arguments to the proper child process.
+Moreover, a logfile (logfile.txt) is created (fopen()) and opened in 'w' mode.
+The wait() function blocks the execution of the master process until one of its child terminates. After that, the child's exit status is checked and it is now possible to close the logfile, unlink all the pipes and finally terminate the remaining processes (by sending them a SIGTERM signal), including itself.
