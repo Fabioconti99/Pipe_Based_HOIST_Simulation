@@ -1,68 +1,958 @@
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: WATCHDOG PROCESS SPAWNED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: command_to_x fifo created
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: command_to_z fifo created
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: x_to_inspector fifo created
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: z_to_inspector fifo created
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: command_to_inspector fifo created
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: inspector_to_wd fifo created
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: MOTOR_X PROCESS SPAWNED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: MOTOR_Z PROCESS SPAWNED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: COMMAND PROCESS SPAWNED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:11 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:56:45 2021
 - Content: INSPECTOR PROCESS SPAWNED
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:11 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:45 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:11 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:45 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:11 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:46 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:46 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:46 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:46 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:46 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:12 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:47 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:13 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:47 2021
 - Content: position= (0,0)
-[4632] Executable: /home/fabio/Scrivania/ass_arp/sources/insp - Time: Fri Dec  3 14:11:13 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:47 2021
 - Content: position= (0,0)
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
-- Content: the process with the [4612] PID is the First Process terminated with WRONG exit status: 0
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
-- Content: First process terminated with exit status: 0
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:47 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:47 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:48 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:48 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:48 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:48 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:48 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:49 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:49 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:49 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:49 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:49 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:50 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:50 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:50 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:50 2021
+- Content: position= (0,0)
+[14584]Executable: /home/fabio/Scrivania/ARP_ASS/sources/cmd - Time: Fri Dec  3 23:56:50 2021
+- Content: UP (pressed 'up arrow')
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 20
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:50 2021
+- Content: position= (0,21)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 40
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:51 2021
+- Content: position= (0,39)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 60
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:51 2021
+- Content: position= (0,61)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 80
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:51 2021
+- Content: position= (0,81)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 100
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:51 2021
+- Content: position= (0,101)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:51 2021
+- Content: position= (0,123)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 140
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:52 2021
+- Content: position= (0,144)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 160
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:52 2021
+- Content: position= (0,161)
+[14584]Executable: /home/fabio/Scrivania/ARP_ASS/sources/cmd - Time: Fri Dec  3 23:56:52 2021
+- Content: RIGHT (pressed 'right arrow')
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 180
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:52 2021
+- Content: ACTUAL X POSITION: 20
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:52 2021
+- Content: position= (16,182)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 200
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:52 2021
+- Content: ACTUAL X POSITION: 40
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:52 2021
+- Content: position= (32,206)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:52 2021
+- Content: ACTUAL X POSITION: 60
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:52 2021
+- Content: position= (48,228)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:53 2021
+- Content: ACTUAL X POSITION: 80
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 240
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:53 2021
+- Content: position= (64,250)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 260
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:53 2021
+- Content: ACTUAL X POSITION: 100
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:53 2021
+- Content: position= (80,270)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 280
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:53 2021
+- Content: ACTUAL X POSITION: 120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:53 2021
+- Content: position= (96,293)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 300
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:53 2021
+- Content: ACTUAL X POSITION: 140
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:53 2021
+- Content: position= (112,312)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:53 2021
+- Content: ACTUAL X POSITION: 160
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 320
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:53 2021
+- Content: position= (128,330)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 340
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:54 2021
+- Content: ACTUAL X POSITION: 180
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:54 2021
+- Content: position= (144,349)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 360
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:54 2021
+- Content: ACTUAL X POSITION: 200
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:54 2021
+- Content: position= (160,371)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:54 2021
+- Content: ACTUAL X POSITION: 220
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 380
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:54 2021
+- Content: position= (176,391)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:54 2021
+- Content: ACTUAL X POSITION: 240
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 400
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:54 2021
+- Content: position= (192,413)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 420
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:54 2021
+- Content: ACTUAL X POSITION: 260
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:54 2021
+- Content: position= (208,431)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:55 2021
+- Content: ACTUAL X POSITION: 280
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 440
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:55 2021
+- Content: position= (224,453)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:55 2021
+- Content: ACTUAL X POSITION: 300
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 460
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:55 2021
+- Content: position= (240,473)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 480
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:55 2021
+- Content: ACTUAL X POSITION: 320
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:55 2021
+- Content: position= (256,493)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:55 2021
+- Content: ACTUAL X POSITION: 340
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 500
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:55 2021
+- Content: position= (272,513)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:55 2021
+- Content: ACTUAL X POSITION: 360
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 520
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:55 2021
+- Content: position= (288,534)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:56 2021
+- Content: ACTUAL X POSITION: 380
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 540
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:56 2021
+- Content: position= (304,555)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 560
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:56 2021
+- Content: ACTUAL X POSITION: 400
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:56 2021
+- Content: position= (320,575)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:56 2021
+- Content: ACTUAL X POSITION: 420
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 580
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:56 2021
+- Content: position= (336,595)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 600
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:56 2021
+- Content: ACTUAL X POSITION: 440
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:56 2021
+- Content: position= (352,616)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 620
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:56 2021
+- Content: ACTUAL X POSITION: 460
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:56 2021
+- Content: position= (368,637)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:57 2021
+- Content: ACTUAL X POSITION: 480
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 640
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:57 2021
+- Content: position= (384,657)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 660
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:57 2021
+- Content: ACTUAL X POSITION: 500
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:57 2021
+- Content: position= (400,673)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 680
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:57 2021
+- Content: ACTUAL X POSITION: 520
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:57 2021
+- Content: position= (416,693)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:57 2021
+- Content: ACTUAL X POSITION: 540
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 700
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:57 2021
+- Content: position= (432,709)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 720
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:57 2021
+- Content: ACTUAL X POSITION: 560
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:57 2021
+- Content: position= (448,728)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 740
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:58 2021
+- Content: ACTUAL X POSITION: 580
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:58 2021
+- Content: position= (464,749)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 760
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:58 2021
+- Content: ACTUAL X POSITION: 600
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:58 2021
+- Content: position= (480,770)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 780
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:58 2021
+- Content: ACTUAL X POSITION: 620
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:58 2021
+- Content: position= (496,792)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:58 2021
+- Content: ACTUAL X POSITION: 640
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 800
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:58 2021
+- Content: position= (512,813)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 820
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:58 2021
+- Content: ACTUAL X POSITION: 660
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:58 2021
+- Content: position= (528,832)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:59 2021
+- Content: ACTUAL X POSITION: 680
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 840
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:59 2021
+- Content: position= (544,853)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:59 2021
+- Content: ACTUAL X POSITION: 700
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 860
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:59 2021
+- Content: position= (560,871)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:59 2021
+- Content: ACTUAL X POSITION: 720
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 880
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:59 2021
+- Content: position= (576,891)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 900
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:59 2021
+- Content: ACTUAL X POSITION: 740
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:59 2021
+- Content: position= (592,913)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:56:59 2021
+- Content: ACTUAL X POSITION: 760
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 920
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:56:59 2021
+- Content: position= (608,931)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:00 2021
+- Content: ACTUAL X POSITION: 780
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 940
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:00 2021
+- Content: position= (624,950)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:00 2021
+- Content: ACTUAL X POSITION: 800
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 960
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:00 2021
+- Content: position= (640,967)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:00 2021
+- Content: ACTUAL X POSITION: 820
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 980
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:00 2021
+- Content: position= (656,990)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1000
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:00 2021
+- Content: ACTUAL X POSITION: 840
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:00 2021
+- Content: position= (672,1006)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:00 2021
+- Content: ACTUAL X POSITION: 860
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1020
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:00 2021
+- Content: position= (688,1024)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:01 2021
+- Content: ACTUAL X POSITION: 880
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1040
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:01 2021
+- Content: position= (704,1047)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1060
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:01 2021
+- Content: ACTUAL X POSITION: 900
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:01 2021
+- Content: position= (720,1067)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:01 2021
+- Content: ACTUAL X POSITION: 920
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1080
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:01 2021
+- Content: position= (736,1088)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:01 2021
+- Content: ACTUAL X POSITION: 940
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1100
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:01 2021
+- Content: position= (752,1109)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:01 2021
+- Content: ACTUAL X POSITION: 960
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:01 2021
+- Content: position= (768,1130)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1140
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:02 2021
+- Content: ACTUAL X POSITION: 980
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:02 2021
+- Content: position= (784,1151)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:02 2021
+- Content: ACTUAL X POSITION: 1000
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1160
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:02 2021
+- Content: position= (800,1174)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:02 2021
+- Content: ACTUAL X POSITION: 1020
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1180
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:02 2021
+- Content: position= (816,1194)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:02 2021
+- Content: ACTUAL X POSITION: 1040
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1200
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:02 2021
+- Content: position= (832,1214)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:02 2021
+- Content: ACTUAL X POSITION: 1060
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:02 2021
+- Content: position= (848,1235)
+[14584]Executable: /home/fabio/Scrivania/ARP_ASS/sources/cmd - Time: Fri Dec  3 23:57:03 2021
+- Content: STOP MOTOR Z (typed 'z')
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:03 2021
+- Content: ACTUAL X POSITION: 1080
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:03 2021
+- Content: position= (864,1235)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:03 2021
+- Content: ACTUAL X POSITION: 1100
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:03 2021
+- Content: position= (880,1235)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:03 2021
+- Content: ACTUAL X POSITION: 1120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:03 2021
+- Content: position= (896,1235)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:03 2021
+- Content: ACTUAL X POSITION: 1140
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:03 2021
+- Content: position= (912,1235)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:03 2021
+- Content: ACTUAL X POSITION: 1160
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:03 2021
+- Content: position= (928,1235)
+[14584]Executable: /home/fabio/Scrivania/ARP_ASS/sources/cmd - Time: Fri Dec  3 23:57:03 2021
+- Content: STOP MOTOR X (typed 'x')
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:04 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:04 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:04 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:04 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:04 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:05 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:05 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:05 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:05 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:05 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:06 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:06 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:06 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:06 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:06 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:07 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:07 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:07 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:07 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:07 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:08 2021
+- Content: STOP (typed 's')
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:08 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:08 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:08 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:08 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:08 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:09 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:09 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:09 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:09 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:09 2021
+- Content: position= (928,1235)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:10 2021
+- Content: MANUAL RESET (typed 'r')
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:10 2021
+- Content: ACTUAL X POSITION: 1140
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:10 2021
+- Content: position= (928,1235)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:10 2021
+- Content: position= (912,1193)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:10 2021
+- Content: ACTUAL X POSITION: 1120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:10 2021
+- Content: position= (896,1155)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:10 2021
+- Content: ACTUAL X POSITION: 1100
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:10 2021
+- Content: ACTUAL X POSITION: 1080
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:10 2021
+- Content: position= (880,1113)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:10 2021
+- Content: position= (864,1067)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:10 2021
+- Content: ACTUAL X POSITION: 1060
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:11 2021
+- Content: position= (848,1029)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:11 2021
+- Content: ACTUAL X POSITION: 1040
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:11 2021
+- Content: ACTUAL X POSITION: 1020
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:11 2021
+- Content: position= (832,983)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:11 2021
+- Content: ACTUAL X POSITION: 1000
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:11 2021
+- Content: position= (816,939)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:11 2021
+- Content: ACTUAL X POSITION: 980
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:11 2021
+- Content: position= (800,895)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:11 2021
+- Content: position= (784,857)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:11 2021
+- Content: ACTUAL X POSITION: 960
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:12 2021
+- Content: position= (768,813)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:12 2021
+- Content: ACTUAL X POSITION: 940
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:12 2021
+- Content: position= (752,777)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:12 2021
+- Content: ACTUAL X POSITION: 920
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:12 2021
+- Content: ACTUAL X POSITION: 900
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:12 2021
+- Content: position= (736,739)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:12 2021
+- Content: ACTUAL X POSITION: 880
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:12 2021
+- Content: position= (720,703)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:12 2021
+- Content: position= (704,655)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:12 2021
+- Content: ACTUAL X POSITION: 860
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:13 2021
+- Content: position= (688,611)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:13 2021
+- Content: ACTUAL X POSITION: 840
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:13 2021
+- Content: position= (672,567)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:13 2021
+- Content: ACTUAL X POSITION: 820
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:13 2021
+- Content: position= (656,525)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:13 2021
+- Content: ACTUAL X POSITION: 800
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:13 2021
+- Content: ACTUAL X POSITION: 780
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:13 2021
+- Content: position= (640,487)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:13 2021
+- Content: ACTUAL X POSITION: 760
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:13 2021
+- Content: position= (624,453)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:14 2021
+- Content: position= (608,407)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:14 2021
+- Content: ACTUAL X POSITION: 740
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:14 2021
+- Content: ACTUAL X POSITION: 720
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:14 2021
+- Content: position= (592,361)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:14 2021
+- Content: position= (576,319)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:14 2021
+- Content: ACTUAL X POSITION: 700
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:14 2021
+- Content: ACTUAL X POSITION: 680
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:14 2021
+- Content: position= (560,279)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:14 2021
+- Content: ACTUAL X POSITION: 660
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:14 2021
+- Content: position= (544,239)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:15 2021
+- Content: ACTUAL X POSITION: 640
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:15 2021
+- Content: position= (528,199)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:15 2021
+- Content: position= (512,151)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:15 2021
+- Content: ACTUAL X POSITION: 620
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:15 2021
+- Content: position= (496,119)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:15 2021
+- Content: ACTUAL X POSITION: 600
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:15 2021
+- Content: position= (480,81)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:15 2021
+- Content: ACTUAL X POSITION: 580
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:15 2021
+- Content: position= (464,43)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:15 2021
+- Content: ACTUAL X POSITION: 560
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1220
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:16 2021
+- Content: ACTUAL X POSITION: 540
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:16 2021
+- Content: position= (448,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:16 2021
+- Content: ACTUAL X POSITION: 520
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:16 2021
+- Content: position= (432,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:16 2021
+- Content: ACTUAL X POSITION: 500
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:16 2021
+- Content: position= (416,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:16 2021
+- Content: position= (400,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:16 2021
+- Content: ACTUAL X POSITION: 480
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:16 2021
+- Content: position= (384,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:16 2021
+- Content: ACTUAL X POSITION: 460
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:17 2021
+- Content: position= (368,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:17 2021
+- Content: ACTUAL X POSITION: 440
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:17 2021
+- Content: position= (352,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:17 2021
+- Content: ACTUAL X POSITION: 420
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:17 2021
+- Content: ACTUAL X POSITION: 400
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:17 2021
+- Content: position= (336,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:17 2021
+- Content: ACTUAL X POSITION: 380
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:17 2021
+- Content: position= (320,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:17 2021
+- Content: position= (304,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:17 2021
+- Content: ACTUAL X POSITION: 360
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:18 2021
+- Content: position= (288,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:18 2021
+- Content: ACTUAL X POSITION: 340
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:18 2021
+- Content: position= (272,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:18 2021
+- Content: ACTUAL X POSITION: 320
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:18 2021
+- Content: position= (256,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:18 2021
+- Content: ACTUAL X POSITION: 300
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:18 2021
+- Content: ACTUAL X POSITION: 280
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:18 2021
+- Content: position= (240,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:18 2021
+- Content: position= (224,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:18 2021
+- Content: ACTUAL X POSITION: 260
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:19 2021
+- Content: ACTUAL X POSITION: 240
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:19 2021
+- Content: position= (208,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:19 2021
+- Content: ACTUAL X POSITION: 220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:19 2021
+- Content: position= (192,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:19 2021
+- Content: ACTUAL X POSITION: 200
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:19 2021
+- Content: position= (176,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:19 2021
+- Content: ACTUAL X POSITION: 180
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:19 2021
+- Content: position= (160,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:19 2021
+- Content: ACTUAL X POSITION: 160
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:19 2021
+- Content: position= (144,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:20 2021
+- Content: ACTUAL X POSITION: 140
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:20 2021
+- Content: position= (128,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:20 2021
+- Content: ACTUAL X POSITION: 120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:20 2021
+- Content: position= (112,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:20 2021
+- Content: position= (96,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:20 2021
+- Content: ACTUAL X POSITION: 100
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:20 2021
+- Content: position= (80,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:20 2021
+- Content: ACTUAL X POSITION: 80
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:20 2021
+- Content: ACTUAL X POSITION: 60
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:20 2021
+- Content: position= (64,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:21 2021
+- Content: position= (48,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:21 2021
+- Content: ACTUAL X POSITION: 40
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:21 2021
+- Content: position= (32,0)
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:21 2021
+- Content: ACTUAL X POSITION: 0
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:21 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:21 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:21 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:22 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:22 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:22 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:22 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:22 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:23 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:23 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:23 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:23 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:23 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:24 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:24 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:24 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:24 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:24 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:25 2021
+- Content: position= (0,0)
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:25 2021
+- Content: position= (0,0)
+[14584]Executable: /home/fabio/Scrivania/ARP_ASS/sources/cmd - Time: Fri Dec  3 23:57:25 2021
+- Content: UP (pressed 'up arrow')
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1240
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:25 2021
+- Content: position= (0,19)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1260
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:25 2021
+- Content: position= (0,39)
+[14584]Executable: /home/fabio/Scrivania/ARP_ASS/sources/cmd - Time: Fri Dec  3 23:57:25 2021
+- Content: RIGHT (pressed 'right arrow')
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1280
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:25 2021
+- Content: ACTUAL X POSITION: 20
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:25 2021
+- Content: position= (16,57)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1300
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:26 2021
+- Content: ACTUAL X POSITION: 40
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:26 2021
+- Content: position= (32,77)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1320
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:26 2021
+- Content: ACTUAL X POSITION: 60
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:26 2021
+- Content: position= (48,97)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1340
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:26 2021
+- Content: ACTUAL X POSITION: 80
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:26 2021
+- Content: position= (64,117)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1360
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:26 2021
+- Content: ACTUAL X POSITION: 100
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:26 2021
+- Content: position= (80,133)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1380
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:26 2021
+- Content: ACTUAL X POSITION: 120
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:26 2021
+- Content: position= (96,154)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1400
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:27 2021
+- Content: ACTUAL X POSITION: 140
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:27 2021
+- Content: position= (112,173)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1420
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:27 2021
+- Content: ACTUAL X POSITION: 160
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:27 2021
+- Content: position= (128,192)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1440
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:27 2021
+- Content: ACTUAL X POSITION: 180
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:27 2021
+- Content: position= (144,213)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1460
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:27 2021
+- Content: ACTUAL X POSITION: 200
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:27 2021
+- Content: position= (160,237)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1480
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:27 2021
+- Content: ACTUAL X POSITION: 220
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:27 2021
+- Content: position= (176,257)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1500
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:28 2021
+- Content: ACTUAL X POSITION: 240
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:28 2021
+- Content: position= (192,278)
+[14562]Executable: ./mz - Time: Fri Dec  3 23:56:45 2021
+- Content: ACTUAL Z POSITION: 1520
+[14561]Executable: ./mx - Time: Fri Dec  3 23:57:28 2021
+- Content: ACTUAL X POSITION: 260
+[14583] Executable: /home/fabio/Scrivania/ARP_ASS/sources/insp - Time: Fri Dec  3 23:57:28 2021
+- Content: position= (208,299)
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
+- Content: First process terminated with exit status: 15
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: command_to_x fifo unlinked
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: command_to_z fifo unlinked
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: x_to_inspector fifo unlinked
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: z_to_inspector fifo unlinked
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: command_to_inspector fifo unlinked
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: inspector_to_wd fifo unlinked
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: INSPECTOR PROCESS TERMINATED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: MOTOR_X PROCESS TERMINATED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: MOTOR_Z PROCESS TERMINATED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: WATCHDOG PROCESS TERMINATED
-[4608]Executable: ./ms - Time: Fri Dec  3 14:11:13 2021
+[14559]Executable: ./ms - Time: Fri Dec  3 23:57:28 2021
 - Content: END OF CURRENT PROCESS

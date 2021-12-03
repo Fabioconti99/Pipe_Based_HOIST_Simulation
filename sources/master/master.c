@@ -199,7 +199,7 @@ int main(int argc, char *argv[])
   fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: First process terminated with exit status: %d\n", getpid(), argv[0], ctime(&actualtime), status);
   fflush(logfile1);
 
-  printf("[%d]Executable: %s - Time: %s- Content: the process with the [%d] PID is the First Process terminated with exit status: %d\n", getpid(), argv[0], ctime(&actualtime), first, status);
+  printf("The process with PID [%d] is the First Process terminated with exit status: %d\n", first, status);
   fflush(stdout);
 
   // Unlinking of all the pipes created.
@@ -230,36 +230,52 @@ int main(int argc, char *argv[])
 
   //Terminate the child processes
   //if the inspector konsole has been the first to terminate, let terminate the command konsole and viceversa
-
+  int n = 0;
   if (first == pid_inspector_konsole)
   {
-    CHECK(kill(pid_command_konsole, SIGTERM));
+    CHECK(n = kill(pid_command_konsole, SIGTERM));
     fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: COMMAND PROCESS TERMINATED\n", getpid(), argv[0], ctime(&actualtime));
     fflush(logfile1);
+
+    printf("The Command process has been killed returning: %d\n", n);
+    fflush(stdout);
   }
   else
   {
-    CHECK(kill(pid_inspector_konsole, SIGTERM));
+    CHECK(n = kill(pid_inspector_konsole, SIGTERM));
     fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: INSPECTOR PROCESS TERMINATED\n", getpid(), argv[0], ctime(&actualtime));
     fflush(logfile1);
+
+    printf("The inspector process has been killed returning: %d\n", n);
+    fflush(stdout);
   }
-  CHECK(kill(pid_motor_x, SIGTERM));
+  CHECK(n = kill(pid_motor_x, SIGTERM));
   fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: MOTOR_X PROCESS TERMINATED\n", getpid(), argv[0], ctime(&actualtime));
   fflush(logfile1);
 
-  CHECK(kill(pid_motor_z, SIGTERM));
+  printf("The Motor X process has been killed returning: %d\n", n);
+  fflush(stdout);
+
+  CHECK(n = kill(pid_motor_z, SIGTERM));
   fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: MOTOR_Z PROCESS TERMINATED\n", getpid(), argv[0], ctime(&actualtime));
   fflush(logfile1);
 
-  CHECK(kill(pid_wd, SIGTERM));
+  printf("The Motor Z process has been killed returning: %d\n", n);
+  fflush(stdout);
+
+  CHECK(n = kill(pid_wd, SIGTERM));
   fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: WATCHDOG PROCESS TERMINATED\n", getpid(), argv[0], ctime(&actualtime));
   fflush(logfile1);
+
+  printf("The WatchDog process has been killed returning: %d\n", n);
+  fflush(stdout);
 
   // Closing the comunication with the logfile.
 
   fprintf(logfile1, "[%d]Executable: %s - Time: %s- Content: END OF CURRENT PROCESS\n", getpid(), argv[0], ctime(&actualtime));
   fflush(logfile1);
-
+  printf("End of the master process\n");
+  fflush(stdout);
   fclose(logfile);
   fclose(logfile1);
 

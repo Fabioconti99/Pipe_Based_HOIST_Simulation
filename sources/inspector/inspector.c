@@ -232,7 +232,7 @@ int main(int argc, char *argv[])
             }
         }
         // Print of the current position.
-        printf("\r%sposition= (%d,%d)%s", bhcyan, position.x, position.z, reset);
+        printf("\r%sposition= (%d mm,%d mm)%s", bhcyan, position.x, position.z, reset);
 
         // Print on the logfile.
         fprintf(logfile, "[%d] Executable: %s - Time: %s- Content: position= (%d,%d)\n", getpid(), argv[0], ctime(&actualtime), position.x, position.z);
