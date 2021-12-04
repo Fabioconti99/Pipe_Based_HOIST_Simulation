@@ -14,10 +14,10 @@ if [ ! -d $1 ]
 then
 echo "Error: Directory $1 DOES NOT exist.";
 while true; do
-read -p "Do you want to create $1 directory? [y/n] " yn
+read -p "Do you want to create $1 directory? [Y/n] " yn
 case $yn in
-[y]* ) mkdir $1; break;;
-[n]* ) exit;;
+[Yy]* ) mkdir $1; break;;
+[Nn]* ) exit;;
 * ) "Please, answer y for yes or n for no.";;
 esac
 done
